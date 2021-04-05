@@ -26,9 +26,10 @@ Foi recriada a página de login do Instagram, por meio do Bootcamp da Digital In
     -  Cinza: `#A0A0A0` ;
     -   Preto `#000`;
 
-## O layout:
+## O layout.
 
-Meu Layout: 
+### Desktop: 
 ![](https://github.com/Bruno-Luna/InstagramPage/blob/master/img/layout/desktop.png)
 
+### Mobile: 
 ![](https://github.com/Bruno-Luna/InstagramPage/blob/master/img/layout/mobile.png)
